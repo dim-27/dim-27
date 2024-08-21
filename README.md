@@ -1,6 +1,6 @@
 # 💫 Hi, I'm Dimas
 ---
-For me, learning how to code is a means of expanding my creativity and convey who I am. That is why I am began this journey to become a developer<br><br> 📖 Currently focusing on mastering my fundamental aspect of the web development<br> 👩🏻‍💻 Working through the classes and projects on theodinproject at the moment<br>🎮 An avid RPG-gamer (especially the persona series)<br>📜 You can check my resume **[here](https://drive.google.com/drive/u/1/folders/1abFn-wQXOd0bp8-BgJCvdLPyg_4c50Dz)**
+For me, learning how to code is a means of expanding my creativity and convey who I am. That is why I am began this journey to become a developer<br><br> 📖 Currently focusing on mastering my fundamental aspect of the web development<br> 👩🏻‍💻 Working through the classes and projects on theodinproject at the moment<br>🎮 An avid RPG-gamer (especially the persona series)<br>📜 You can check my resume **[here](https://drive.google.com/file/d/1ZFSNVuZBKGwDUoeKLS1HzPkilm7tcDB_/view?usp=sharing)**
 
 
 ## 🌐 Let's Connect!
