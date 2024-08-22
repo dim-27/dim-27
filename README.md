@@ -5,7 +5,7 @@ For me, learning how to code is a means of expanding my creativity and convey wh
 
 ## 🌐 Let's Connect!
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-dimas-firmanda/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-dimas-firmanda/) 
 
 
 # 💻 Tech Stack
